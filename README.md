@@ -20,7 +20,7 @@ This could be used to test Vr Conditioner boards, just proof of concept you shou
 * esp32 of course
 
 # To-Do #
-* Make it actually works no problem
+* Make it actually works (There are some problems in current version with generation logic as well as html, I will update in near future)
 * add support for external display, potentiometer, external 12bit dac
 * Update the code so it supports different configurations such as missing tooth
 
