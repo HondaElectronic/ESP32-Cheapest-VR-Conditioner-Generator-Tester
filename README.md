@@ -23,3 +23,7 @@ This could be used to test Vr Conditioner boards, just proof of concept you shou
 * Make it actually works no problem
 * add support for external display, potentiometer, external 12bit dac
 * Update the code so it supports different configurations such as missing tooth
+
+
+![PXL_20250719_132511017 MP](https://github.com/user-attachments/assets/f91de46a-dcb9-4d25-bd55-f2e416bbf5d9)
+![PXL_20250719_134212815](https://github.com/user-attachments/assets/58cf1886-b254-4d35-b99b-ac9b72b0e23f)
