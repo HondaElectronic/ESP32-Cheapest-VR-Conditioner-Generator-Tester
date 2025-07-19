@@ -1,5 +1,6 @@
 # ESP32-Cheapest-VR-Conditioner-Generator-Tester
 This could be used to test Vr Conditioner boards, just proof of concept you should use dual channel signal generator
+# THIS IS JUST ALPHA, NOT FULLY TESTED, MORE ADVANCED VERSION COMING OUT SOON #
 
 ### This is just proof of concept but it might as well work in real life application ###
 * This is still work in progress
