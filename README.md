@@ -7,7 +7,7 @@ This could be used to test Vr Conditioner boards, just proof of concept you shou
 
 ## I made this beacuse I wanted to test my lm1815 vr conditioner board but didnt have second channel on my arbitary generator and had esp32 laying around ##
 
-#Limitations#
+# Limitations #
 * Esp32 have only 2 dac's onboard, so if you want to generate 3 signals, you would need to use extra external dac or maybe mcu with 3 dac's
 * Esp32 dac is only 8 bit so the signal is not ideal, its also noisy as you can see on the oscilloscope
 * DAC generates lower voltage signal than real life magnetic sensor
